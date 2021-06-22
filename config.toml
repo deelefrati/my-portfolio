@@ -1,9 +1,9 @@
-# Site settings
 baseURL = "https://delefrati.dev"
 languageCode = "en-us"
 title = "Douglas Delefrati"
-theme = "archie"
-
+theme="archie"
+copyright = "© Athul"
+# Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -13,19 +13,24 @@ paginate=3 # articles per page
 [params]
 	mode="dark" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "COMO TIRA LETRA GRAMDE"
+	subtitle = "Douglas Delefrati website"
 
 # Social Tags
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/deelefrati/"
+url = "https://github.com/athul/archie"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/douglas-delefrati-388b9815a/"
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/athulcajay/"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/athul/"
 
 # Main menu Items
 

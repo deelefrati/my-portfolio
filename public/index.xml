@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Delefrati</title>
+    <link>https://delefrati.dev/</link>
+    <description>Recent content on Douglas Delefrati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright><atom:link href="https://delefrati.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is just a test :P</title>
+      <link>https://delefrati.dev/posts/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://delefrati.dev/posts/first_post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
